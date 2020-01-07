@@ -1,4 +1,5 @@
 *.l#*
 *.s#*
 *.b#*
+*.bak
 .DS_Store
